@@ -1,6 +1,6 @@
 {
   "name": "phantasm",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Opinionated box-shadow compiler for CSS Art. [CSS, Library]",
   "main": "index.js",
   "scripts": {
